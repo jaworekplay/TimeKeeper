@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TimeKeeper/bin/Debug/net9.0-windows
+/TimeKeeper/obj/Debug/net9.0-windows
+/TimeKeeper/obj
