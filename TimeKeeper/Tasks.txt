@@ -1,0 +1,2 @@
+﻿Add highlight to currently active item, so its easy to see, maybe bold font or background colour
+Add ability to break down time spans so we can see breakdown of how task has been utilised, probably an expander to make it easy
